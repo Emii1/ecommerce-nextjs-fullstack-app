@@ -4,13 +4,12 @@ import { useEffect } from "react";
 import Link from "next/link";
 import { CheckCircleIcon } from "@heroicons/react/24/solid";
 
-import { useWindowSize } from "react-use";
 
 import { useCartStore } from "@/store/cart-store";
 
 export default function SuccessPage() {
   const { clearCart } = useCartStore();
-  const { width, height } = useWindowSize();
+
 
   useEffect(() => {
     clearCart();
