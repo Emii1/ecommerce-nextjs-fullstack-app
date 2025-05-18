@@ -19,8 +19,6 @@ A  full-stack e-commerce web store built with Next.js, TypeScript, Tailwind CSS,
 
 ## Features
 
-To learn more about Next.js, take a look at the following resources:
-
 - Showcases different products fetched via Stripe
 - Fully responsive layout
 - Carousel for product display
