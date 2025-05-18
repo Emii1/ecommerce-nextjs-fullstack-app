@@ -14,20 +14,20 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A  full-stack e-commerce web store built with Next.js, TypeScript, Tailwind CSS, and Stripe API.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
+## Features
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Showcases different products fetched via Stripe
+- Fully responsive layout
+- Carousel for product display
+- Add to Cart functionality using `sessionStorage`
+- Stripe checkout integration
+- Option to clear cart
+- Clean UI built with Tailwind CSS
 
 ## Deploy on Vercel
 
