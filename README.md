@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 A  full-stack e-commerce web store built with Next.js, TypeScript, Tailwind CSS, and Stripe API.
 
 
-## Features
+## 🛠️ Features
 
 - Showcases different products fetched via Stripe
 - Fully responsive layout
